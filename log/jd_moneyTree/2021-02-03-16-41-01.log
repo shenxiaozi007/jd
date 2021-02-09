@@ -1,0 +1,76 @@
+
+🔔京东摇钱树, 开始!
+您的cookie选择的是用&隔开
+
+
+====================共有2个京东账号Cookie=========
+
+==================脚本执行- 北京时间(UTC+8)：2/3/2021, 4:41:01 PM=====================
+
+
+开始【京东账号1】迷糊虫啊
+
+初始化摇钱树个人信息
+resultCode为0
+每日签到条件查询:已经签到过了
+开始做任务userInfo了
+
+canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+
+浏览任务列表taskInfo::[{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":667,"prizeAmount":1000,"workType":7}]
+
+三餐签到任务不在时间范围内
+分享任务已经做过
+所有的浏览任务都做完了
+所有的浏览任务都做完了
+收获的操作:{"userInfo":"5A6A77F944DB98BB7A548CE723BFB7DD","firstLogin":false,"nick":"迷糊虫啊","linkMissionIds":["666","667"],"showTips":false,"sharePin":"_RlnOTti1duGcrJNNpMgDQ","pushStatus":0,"workerList":[],"avatar":"https://img12.360buyimg.com/jrpmobile/jfs/t4426/281/1409708693/5892/5bbc3547/58de20bbNbc584362.png","showUpgradeInfo":false,"stole":0,"userToken":"B2E6547F907EE71A7B89B71D421AA98B","realName":true,"stop":2,"treeInfo":{"upgradeDemand":3500000,"treeName":"19级憨实大树","progressLeft":"97.7%","level":19,"fruit":2390116,"fruitHarvest":79867,"fruitOnTree":14407,"workerSum":4,"coin":7012,"capacity":50000},"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
+
+收获金果
+目前金果数量2404527
+
+设置的不卖出金果
+
+金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":10500,"gaAmount":2404527,"canGoldcoin":4818}},"channelEncrypt":0}
+今日已偷过好友的金果了，暂无好友可偷，请明天再来
+
+
+【距离20级摇钱树还差】97.3%
+【我的金果数量】2404527
+【我的金币数量】10500
+
+
+
+开始【京东账号2】孤傲的小小瞒
+
+初始化摇钱树个人信息
+resultCode为0
+每日签到条件查询:已经签到过了
+开始做任务userInfo了
+
+canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+
+浏览任务列表taskInfo::[{"workStatus":2,"mapValues":[1,1,1,1,1,1,1],"prizeType":0,"workLabel":"已完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":2,"mapValues":[1,1,1,1,1,1,1],"prizeType":0,"workLabel":"已完成","mid":667,"prizeAmount":1000,"workType":7}]
+
+三餐签到任务不在时间范围内
+分享任务已经做过
+所有的浏览任务都做完了
+所有的浏览任务都做完了
+收获的操作:{"userInfo":"378EEA14E9D1DD03CE6648C95B83A4F5","limitedTimeTaskInfo":{"overTime":14380000,"getFruitNum":2000},"firstLogin":false,"nick":"孤傲的小小瞒","linkMissionIds":["666","667"],"showTips":false,"sharePin":"bA2m4rV2LNBtWjLpDSKFYg","pushStatus":0,"workerList":[],"avatar":"https://storage.360buyimg.com/i.imageUpload/c7b3b2ddbbc3d1a931343833393434393332303236_big.jpg","showUpgradeInfo":false,"stole":0,"userToken":"7CE721B8FE9FD596AE1D35952F5A4F6A","realName":true,"stop":2,"treeInfo":{"upgradeDemand":3500000,"treeName":"19级憨实大树","progressLeft":"95.4%","level":19,"fruit":2984338,"fruitHarvest":162614,"fruitOnTree":14406,"workerSum":4,"coin":5802,"capacity":50000},"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
+
+收获金果
+目前金果数量2998748
+
+设置的不卖出金果
+
+金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":9651,"gaAmount":2998748,"canGoldcoin":6009}},"channelEncrypt":0}
+今日已偷过好友的金果了，暂无好友可偷，请明天再来
+
+
+【距离20级摇钱树还差】94.9%
+【我的金果数量】2998748
+【我的金币数量】9651
+
+
+
+🔔京东摇钱树, 结束! 🕛 13.097 秒
+

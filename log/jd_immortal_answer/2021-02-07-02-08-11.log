@@ -1,0 +1,25 @@
+
+🔔京东神仙书院答题, 开始!
+您的cookie选择的是用&隔开
+
+
+====================共有2个京东账号Cookie=========
+
+==================脚本执行- 北京时间(UTC+8)：2/7/2021, 2:08:11 AM=====================
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at /home/xinchun/www/jd-new/jd/scripts/jd_immortal_answer.js:405:21
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/home/xinchun/www/jd-new/jd/scripts/jd_immortal_answer.js:439:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+******开始【京东账号1】迷糊虫啊*********
+
+账号被风控，无法参与活动
+
+******开始【京东账号2】孤傲的小小瞒*********
+
+账号被风控，无法参与活动
+
+🔔京东神仙书院答题, 结束! 🕛 0.924 秒
+

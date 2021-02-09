@@ -1,0 +1,737 @@
+
+🔔东东农场, 开始!
+开始获取配置文件
+
+您的cookie选择的是用&隔开
+
+
+====================共有2个京东账号Cookie=========
+
+==================脚本执行- 北京时间(UTC+8)：2/4/2021, 7:32:13 AM=====================
+
+您的东东农场互助码选择的是用&隔开
+
+共2个京东账号
+
+您提供了2个账号的农场助力码
+
+
+开始【京东账号1】迷糊虫啊
+
+第1个京东账号将要助力的好友["e6e04602d5e343258873af1651b603ec","52801b06ce2a462f95e1d59d7e856ef4","5bc73a365ff74a559bdee785ea97fcc5"]
+
+【京东账号1（迷糊虫啊）的东东农场好友互助码】94e09971229046b6ba67b903a70b9d80
+
+
+【已成功兑换水果】2次
+
+开始助力好友
+格式化后的助力码::["e6e04602d5e343258873af1651b603ec","52801b06ce2a462f95e1d59d7e856ef4","5bc73a365ff74a559bdee785ea97fcc5"]
+
+开始助力京东账号1 - 迷糊虫啊的好友: e6e04602d5e343258873af1651b603ec
+【助力好友结果】: 好友【Evine】已满五人助力
+【今日助力次数还剩】3次
+
+开始助力京东账号1 - 迷糊虫啊的好友: 52801b06ce2a462f95e1d59d7e856ef4
+【助力好友结果】: 好友【做一颗潇洒的蛋蛋】已满五人助力
+【今日助力次数还剩】3次
+
+开始助力京东账号1 - 迷糊虫啊的好友: 5bc73a365ff74a559bdee785ea97fcc5
+【助力好友结果】: 好友【米大眼老鼠】已满五人助力
+【今日助力次数还剩】3次
+
+助力好友结束，即将开始领取额外水滴奖励
+
+
+14包抽纸种植中...
+
+
+初始化任务列表
+开始签到
+【签到成功】获得25g💧\n
+被水滴砸中： 否
+签到结束,开始广告浏览任务
+正在进行广告浏览任务: 每日签到抢888京豆
+每日签到抢888京豆浏览任务完成
+领取浏览每日签到抢888京豆广告奖励成功,获得8g
+正在进行广告浏览任务: 抢1元20只口罩
+抢1元20只口罩浏览任务完成
+领取浏览抢1元20只口罩广告奖励成功,获得8g
+正在进行广告浏览任务: 猕猴桃9.9元15颗
+猕猴桃9.9元15颗浏览任务完成
+领取浏览猕猴桃9.9元15颗广告奖励成功,获得8g
+正在进行广告浏览任务: 年夜饭5折抢
+"Timeout awaiting 'request' for 10000ms"
+东东农场 API请求失败，请检查网路重试
+年夜饭5折抢浏览任务完成
+领取浏览年夜饭5折抢广告奖励成功,获得8g
+正在进行广告浏览任务: 5双运动袜8.9元秒
+5双运动袜8.9元秒浏览任务完成
+领取浏览5双运动袜8.9元秒广告奖励成功,获得8g
+【广告浏览】完成5个,获得40g💧
+
+【定时领水】获得8g💧
+
+开始给好友浇水...
+
+初始化任务列表
+今日已给0个好友浇水
+需要浇水的好友列表shareCodes:["ef35290bcdad4d2982eb84e5e3f3a47c","e6eedaa675884cb48d497b05e693df79"]
+为第1个好友浇水结果:{"code":"0","cardInfo":{"type":"fastCard","beanAward":-1,"useTimesInDay":-1,"version":1,"rule":"快速浇壶中已有水滴，单次最多100g","way":"添加好友、帮好友浇水","cardSubTitle":"浇壶中已有水滴，最多100g"},"remainTimeSeconds":59234,"firstWater":false,"statisticsTimes":null,"sysTime":1612395166071,"sendCard":"fastCard","message":null}
+
+为好友浇水获得道具了
+获取道具卡:快速浇壶中已有水滴，单次最多100g
+为第2个好友浇水结果:{"code":"0","remainTimeSeconds":59233,"firstWater":false,"statisticsTimes":null,"sysTime":1612395167231,"message":null}
+
+【好友浇水】已给2个好友浇水,消耗20g水
+
+【好友浇水奖励】快速浇水卡
+
+查询好友列表数据：{"shareCodeInviteNotFarmAddOn":"-inviteFriendNotFarm","friendInfos":[{"2021-02-03":[{"time":1612348229388,"type":2,"name":"sallyyi0","shareCode":"ef35290bcdad4d2982eb84e5e3f3a47c"},{"time":1612348228199,"type":2,"name":"英汉辞典iii","shareCode":"e6eedaa675884cb48d497b05e693df79"},{"time":1612348227013,"type":2,"name":"天神下凡","shareCode":"8bffe6b120ab4c00b4cd410c959f0c93"},{"time":1612348225832,"type":2,"name":"愤怒的烤地瓜","shareCode":"42444d5f1e0e45d5942c16f6bc08a891"},{"time":1612348223482,"type":2,"name":"jd_157120dhy","shareCode":"742e107d59bd42848ae58eb46597ad37"},{"time":1612348222306,"type":2,"name":"jd_134136lyx","shareCode":"cb109dd67e85473db6357bd4d797de8e"},{"time":1612348221117,"type":2,"name":"jd_132500gtui","shareCode":"0ae484556918465cb5ada3eff6ddcde5"},{"time":1612348216427,"type":2,"name":"豆鼓味杨梅_","shareCode":"763ae8b164da4cb09116af2767db0941"},{"time":1612348215251,"type":2,"name":"w180wqx1ns","shareCode":"4121cfaf3aed4200928291456d3e6462"},{"time":1612348214082,"type":2,"name":"infinityYI","shareCode":"3fa488dffced400ab5778f1fe1a2d9dd"},{"time":1612348212908,"type":2,"name":"杜绵羊","shareCode":"ffe50f705403489b99cbd72fb1c8d841"},{"time":1612348211732,"type":2,"name":"jd_155555msr","shareCode":"3507a16ce1a04da0ada322d8f39da79b"},{"time":1612348210550,"type":2,"name":"156独角兽","shareCode":"8935ae2e65014b04b58217c889792fc5"},{"time":1612348208187,"type":2,"name":"jungleyung","shareCode":"51c532ed43b44f31acd9a086470026eb"},{"time":1612348207011,"type":2,"name":"jd_151774tqa","shareCode":"a7b863f63229490c8902c0e75209e080"}]},{"2021-02-02":[{"time":1612261920303,"type":2,"name":"jd_135347gby","shareCode":"ad253b10c50b4fd28487c3c4f32441a3"},{"time":1612261919121,"type":2,"name":"salty__","shareCode":"8e519f432a7a48c3a6955ae0f24fa605"},{"time":1612261917938,"type":2,"name":"jd_5a9fa6c2b1cd0","shareCode":"a645bcdd452c424b81b3912bff2728b7"},{"time":1612261916771,"type":2,"name":"wangguirong01","shareCode":"313520672be8469aa746f3fd8f856a3a"},{"time":1612261915600,"type":2,"name":"HEARTPHILIANS","shareCode":"6ff03f99ed1e405eb0dfe57a83adc052"},{"time":1612261914435,"type":2,"name":"呵呵先qur","shareCode":"2c5b1a73ac01455993a428668fc10503"},{"time":1612261912094,"type":2,"name":"叫鸟鸟不理","shareCode":"d6c222e919ef4c8386fb4cc62997d7cb"},{"time":1612261910911,"type":2,"name":"Eyreh","shareCode":"d848230281424938b54d641202c87e8f"},{"time":1612261909729,"type":2,"name":"A? 咱没什么特长就网名特别长✔✔","shareCode":"2c4e44c710214416a6b573e9fac0f269"},{"time":1612261908557,"type":2,"name":"范12261","shareCode":"7506ecd048d44edd9da77ee4d0fa2b9d"},{"time":1612261907387,"type":2,"name":"神来之笔_CH","shareCode":"b87e7ba251ef493dae688629f09f1c77"},{"time":1612261905050,"type":2,"name":"jd_147601739","shareCode":"2dea534c36af4db49ae2013f5196a64b"},{"time":1612261903880,"type":2,"name":"ihtHajvLTSpz","shareCode":"6ff638907c2a42e1888327ab20914893"},{"time":1612261901533,"type":2,"name":"xue2yeotj","shareCode":"4bf1680388304c8890e1005df7a35d0a"},{"time":1612261900361,"type":2,"name":"Dick139fnh","shareCode":"a9fbca46911a4bd996e504d05f86978a"},{"time":1612261899194,"type":2,"name":"jd_CEGdDVYKOPWD","shareCode":"7f8f305dd246441d86bfce5246dcf121"},{"time":1612240201875,"type":2,"name":"Happiness","shareCode":"dc73edd73b1a4bcd923d6c07b92f1b2d"},{"time":1612240199521,"type":2,"name":"jdszhaoh","shareCode":"36b1d6d6b62343cabf4dab187a49ac54"},{"time":1612240197186,"type":2,"name":"jd_189244aix","shareCode":"9b425f4efd8d4c86a57f5e70ef0596c7"},{"time":1612240194855,"type":2,"name":"京","shareCode":"aa2e5f08ad99464fb7f0318c90aa2cf9"},{"time":1612240193688,"type":2,"name":"SmileAlita","shareCode":"38368d3c1f2e4eb1884db90021137059"},{"time":1612240189003,"type":2,"name":"jd_AJhGafminLxz","shareCode":"a66f9eb404904967a47bde03ff030ead"},{"time":1612240185501,"type":2,"name":"华仔SG","shareCode":"8f85aaf8857c4c4899106e0dacf8f7e7"},{"time":1612240184321,"type":2,"name":"?          故事™","shareCode":"c28ccf067ac94649b07706dcadb5c9ef"},{"time":1612240181971,"type":2,"name":"泉哥li","shareCode":"aa1b14fbc710434f96945fe7c11d3931"},{"time":1612240180742,"type":2,"name":"Xc，","shareCode":"fd8c7f171e6647368664a4c05621fa9e"},{"time":1612240179562,"type":2,"shareCode":"9367d86b271e4a47afd8e4ac8c008f42"},{"time":1612222276949,"type":2,"name":"Ai","shareCode":"0ff5005a209d43fb9d03800f492190c2"},{"time":1612222274608,"type":2,"name":"libra233","shareCode":"a6975881e1014251a601e0501889e4f1"},{"time":1612222272273,"type":2,"name":"潘燕媚","shareCode":"f5ea5193b0994949aceb48403c7772dc"},{"time":1612222269940,"type":2,"name":"大牛115741","shareCode":"422e4258313c4b47bc63a60a5e3bcdcd"},{"time":1612222268769,"type":2,"name":"七杭001","shareCode":"aa898accd20c4534ab346606daabfee6"},{"time":1612222267595,"type":2,"name":"眼泪就是孟婆汤","shareCode":"882cd2dd7c4148149ef21d580283a43b"},{"time":1612222266422,"type":2,"name":"jd_EmtWdjacwAJo","shareCode":"e6af3b2b9e774b95a1377a78ac08e6e6"},{"time":1612222265249,"type":2,"name":"jd_CheeFXmHBgEe","shareCode":"76323c45eded40229b3e68e7496ec304"},{"time":1612222262897,"type":2,"name":"nanxiongman","shareCode":"9a2d4994c4b44f6d935fb7798a073dd7"}]}],"code":"0","shareCodeCallAddOn":"-callFriend","inviteFriendCountToPropsSendCard":"fastCard","inviteFriendCountToProps":3,"inviteFriendGotAwardCount":0,"inviteFriendCount":0,"inviteFirstFriendAwardWater":50,"awardCallUserWater":60,"shareCodeInviteAddOn":"-inviteFriend","hadGotInviteFriendCountToProps":false,"statisticsTimes":null,"sysTime":1612395168429,"fullFriend":false,"inviteFriendAwardEach":10,"countOfFriend":15,"message":null,"friends":[{"id":"1612348229379100","nickName":"sallyyi0","imageUrl":"https://m.360buyimg.com/babel/jfs/t1/149354/14/3906/29590/5f1ecb9dE15f749be/9a328e227831b99f.png","shareCode":"ef35290bcdad4d2982eb84e5e3f3a47c","friendState":0},{"id":"1612348228188057","nickName":"英汉辞典iii","imageUrl":"https://m.360buyimg.com/babel/jfs/t1/149354/14/3906/29590/5f1ecb9dE15f749be/9a328e227831b99f.png","shareCode":"e6eedaa675884cb48d497b05e693df79","friendState":0},{"id":"1612348227003003","nickName":"天神下凡","imageUrl":"https://wx.qlogo.cn/mmopen/vi_32/nF6vgbvBRKn7nSfaKHdr82kADK68DmYPZKdMqdU2FiaCDDVU1CScvQRlWibETWFTribYFb0jedWMaGxU2kefWD0Tw/132","shareCode":"8bffe6b120ab4c00b4cd410c959f0c93","friendState":1},{"id":"1612348225824180","nickName":"愤怒的烤地瓜","imageUrl":"https://m.360buyimg.com/babel/jfs/t1/149354/14/3906/29590/5f1ecb9dE15f749be/9a328e227831b99f.png","shareCode":"42444d5f1e0e45d5942c16f6bc08a891","friendState":1},{"id":"1612348223473196","nickName":"jd_157120dhy","imageUrl":"https://m.360buyimg.com/babel/jfs/t1/149354/14/3906/29590/5f1ecb9dE15f749be/9a328e227831b99f.png","shareCode":"742e107d59bd42848ae58eb46597ad37","friendState":1},{"id":"1612348222284173","nickName":"jd_134136lyx","imageUrl":"https://m.360buyimg.com/babel/jfs/t1/149354/14/3906/29590/5f1ecb9dE15f749be/9a328e227831b99f.png","shareCode":"cb109dd67e85473db6357bd4d797de8e","friendState":1},{"id":"1612348221110060","nickName":"jd_132500gtui","imageUrl":"https://m.360buyimg.com/babel/jfs/t1/149354/14/3906/29590/5f1ecb9dE15f749be/9a328e227831b99f.png","shareCode":"0ae484556918465cb5ada3eff6ddcde5","friendState":1},{"id":"1612348216417183","nickName":"豆鼓味杨梅_","imageUrl":"http://storage.360buyimg.com/i.imageUpload/6a645f3464343161646361326165353531353931303636303036353632_mid.jpg","shareCode":"763ae8b164da4cb09116af2767db0941","friendState":1},{"id":"1612348215241192","nickName":"w180wqx1ns","imageUrl":"https://m.360buyimg.com/babel/jfs/t1/149354/14/3906/29590/5f1ecb9dE15f749be/9a328e227831b99f.png","shareCode":"4121cfaf3aed4200928291456d3e6462","friendState":1},{"id":"1612348214073089","nickName":"infinityYI","imageUrl":"https://m.360buyimg.com/babel/jfs/t1/149354/14/3906/29590/5f1ecb9dE15f749be/9a328e227831b99f.png","shareCode":"3fa488dffced400ab5778f1fe1a2d9dd","friendState":1},{"id":"1612348212901116","nickName":"杜绵羊","imageUrl":"http://storage.360buyimg.com/i.imageUpload/6a645f3538353637313166303662306531353732373032393134333636_mid.jpg","shareCode":"ffe50f705403489b99cbd72fb1c8d841","friendState":1},{"id":"1612348211724181","nickName":"jd_155555msr","imageUrl":"http://storage.360buyimg.com/i.imageUpload/66656e6771696e67776c31343232353437363938393739_mid.jpg","shareCode":"3507a16ce1a04da0ada322d8f39da79b","friendState":1},{"id":"1612348210542188","nickName":"156独角兽","imageUrl":"https://m.360buyimg.com/babel/jfs/t1/149354/14/3906/29590/5f1ecb9dE15f749be/9a328e227831b99f.png","shareCode":"8935ae2e65014b04b58217c889792fc5","friendState":1},{"id":"1612348208178148","nickName":"jungleyung","imageUrl":"http://storage.360buyimg.com/i.imageUpload/6a645f3762636234653961376635323631353834363830303132343138_mid.jpg","shareCode":"51c532ed43b44f31acd9a086470026eb","friendState":0},{"id":"1612348207004189","nickName":"jd_151774tqa","imageUrl":"https://m.360buyimg.com/babel/jfs/t1/149354/14/3906/29590/5f1ecb9dE15f749be/9a328e227831b99f.png","shareCode":"a7b863f63229490c8902c0e75209e080","friendState":1}],"newUserAward":false,"deleteFriendCount":1094,"awardInviteNewUserSendWater":100,"inviteFriendMax":4,"newFriendMsg":false,"loadFriend":false}
+
+
+今日已邀请好友0个 / 每日邀请上限4个
+开始删除15个好友,可拿每天的邀请奖励
+
+开始删除好友 [ef35290bcdad4d2982eb84e5e3f3a47c]
+删除好友 [ef35290bcdad4d2982eb84e5e3f3a47c] 成功
+
+
+开始删除好友 [e6eedaa675884cb48d497b05e693df79]
+删除好友 [e6eedaa675884cb48d497b05e693df79] 成功
+
+
+开始删除好友 [8bffe6b120ab4c00b4cd410c959f0c93]
+删除好友 [8bffe6b120ab4c00b4cd410c959f0c93] 成功
+
+
+开始删除好友 [42444d5f1e0e45d5942c16f6bc08a891]
+删除好友 [42444d5f1e0e45d5942c16f6bc08a891] 成功
+
+
+开始删除好友 [742e107d59bd42848ae58eb46597ad37]
+删除好友 [742e107d59bd42848ae58eb46597ad37] 成功
+
+
+开始删除好友 [cb109dd67e85473db6357bd4d797de8e]
+删除好友 [cb109dd67e85473db6357bd4d797de8e] 成功
+
+
+开始删除好友 [0ae484556918465cb5ada3eff6ddcde5]
+删除好友 [0ae484556918465cb5ada3eff6ddcde5] 成功
+
+
+开始删除好友 [763ae8b164da4cb09116af2767db0941]
+删除好友 [763ae8b164da4cb09116af2767db0941] 成功
+
+
+开始删除好友 [4121cfaf3aed4200928291456d3e6462]
+删除好友 [4121cfaf3aed4200928291456d3e6462] 成功
+
+
+开始删除好友 [3fa488dffced400ab5778f1fe1a2d9dd]
+删除好友 [3fa488dffced400ab5778f1fe1a2d9dd] 成功
+
+
+开始删除好友 [ffe50f705403489b99cbd72fb1c8d841]
+删除好友 [ffe50f705403489b99cbd72fb1c8d841] 成功
+
+
+开始删除好友 [3507a16ce1a04da0ada322d8f39da79b]
+删除好友 [3507a16ce1a04da0ada322d8f39da79b] 成功
+
+
+开始删除好友 [8935ae2e65014b04b58217c889792fc5]
+删除好友 [8935ae2e65014b04b58217c889792fc5] 成功
+
+
+开始删除好友 [51c532ed43b44f31acd9a086470026eb]
+删除好友 [51c532ed43b44f31acd9a086470026eb] 成功
+
+
+开始删除好友 [a7b863f63229490c8902c0e75209e080]
+删除好友 [a7b863f63229490c8902c0e75209e080] 成功
+
+今日未邀请过好友
+开始打卡领水活动（签到，关注，领券）
+开始今日签到
+打卡结果{"amount":10,"code":"0","todayGotWaterGoalTask":{"canPop":false},"statisticsTimes":null,"signDay":3,"sysTime":1612395191475,"message":null}
+【第3天签到】获得10g💧
+
+关注ID96
+themeStep1--结果{"followState":"0","code":"0","todayGotWaterGoalTask":{"canPop":false},"statisticsTimes":null,"sysTime":1612395192625,"message":null}
+themeStep2--结果{"amount":2,"code":"0","todayGotWaterGoalTask":{"canPop":false},"statisticsTimes":null,"sysTime":1612395193772,"message":null}
+关注美妆馆，获得水滴2g
+关注ID249
+themeStep1--结果{"followState":"0","code":"0","todayGotWaterGoalTask":{"canPop":false},"statisticsTimes":null,"sysTime":1612395194917,"message":null}
+themeStep2--结果{"amount":2,"code":"0","todayGotWaterGoalTask":{"canPop":false},"statisticsTimes":null,"sysTime":1612395196065,"message":null}
+关注美食馆，获得水滴2g
+关注ID519
+themeStep1--结果{"followState":"0","code":"0","todayGotWaterGoalTask":{"canPop":false},"statisticsTimes":null,"sysTime":1612395197207,"message":null}
+themeStep2--结果{"amount":2,"code":"0","todayGotWaterGoalTask":{"canPop":false},"statisticsTimes":null,"sysTime":1612395198348,"message":null}
+关注东东农场，获得水滴2g
+开始打卡领水活动（签到，关注，领券）结束
+
+水滴雨任务，每天两次，最多可得10g水滴
+两次水滴雨任务是否全部完成：否
+开始水滴雨任务,这是第1次，剩余1次
+水滴雨waterRain
+水滴雨任务执行成功，获得水滴：10g
+【第1次水滴雨】获得10g水滴
+
+助力好友未达到5个
+领取额外奖励水滴结束
+
+是否到了领取免费赠送的抽奖机会----false
+免费赠送的抽奖机会未到时间
+开始浏览天天抽奖的第1个逛会场任务
+浏览爆品会场
+第1个逛会场任务完成，开始领取水滴奖励
+
+天天抽奖浏览任务领取水滴
+第1个逛会场任务领取水滴奖励完成
+
+开始浏览天天抽奖的第2个逛会场任务
+浏览爆品会场
+第2个逛会场任务完成，开始领取水滴奖励
+
+天天抽奖浏览任务领取水滴
+第2个逛会场任务领取水滴奖励完成
+
+开始天天抽奖--好友助力--每人每天只有三次助力机会.
+---天天抽奖次数remainLotteryTimes----3次
+开始抽奖
+等待了2秒
+第1次抽奖结果{"beanCount":5,"code":"0","statisticsTimes":null,"sysTime":1612395215345,"message":null,"type":"bean3","remainLotteryTimes":2}
+lotteryRes.typebean3
+等待了2秒
+第2次抽奖结果{"beanCount":1,"code":"0","statisticsTimes":null,"sysTime":1612395218516,"message":null,"type":"bean1","remainLotteryTimes":1}
+lotteryRes.typebean1
+等待了2秒
+第3次抽奖结果{"code":"0","statisticsTimes":null,"sysTime":1612395221663,"addWater":10,"message":null,"type":"water1","remainLotteryTimes":0}
+lotteryRes.typewater1
+【天天抽奖】京豆3个，京豆1个，水滴10g
+
+
+准备浇水十次
+第1次浇水
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":186,"statisticsTimes":null,"totalWaterTimes":3,"sysTime":1612395224946,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4670}
+剩余水滴186g
+第2次浇水
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":176,"statisticsTimes":null,"totalWaterTimes":4,"sysTime":1612395227094,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4680}
+剩余水滴176g
+第3次浇水
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":166,"statisticsTimes":null,"totalWaterTimes":5,"sysTime":1612395229236,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4690}
+剩余水滴166g
+第4次浇水
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":156,"statisticsTimes":null,"totalWaterTimes":6,"sysTime":1612395231375,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4700}
+剩余水滴156g
+第5次浇水
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":146,"statisticsTimes":null,"totalWaterTimes":7,"sysTime":1612395233512,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4710}
+剩余水滴146g
+第6次浇水
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":136,"statisticsTimes":null,"totalWaterTimes":8,"sysTime":1612395235659,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4720}
+剩余水滴136g
+第7次浇水
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":126,"statisticsTimes":null,"totalWaterTimes":9,"sysTime":1612395237804,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4730}
+剩余水滴126g
+第8次浇水
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":116,"statisticsTimes":null,"totalWaterTimes":10,"sysTime":1612395239950,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4740}
+剩余水滴116g
+第9次浇水
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":106,"statisticsTimes":null,"totalWaterTimes":11,"sysTime":1612395242096,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4750}
+剩余水滴106g
+第10次浇水
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":96,"statisticsTimes":null,"totalWaterTimes":12,"sysTime":1612395244240,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4760}
+剩余水滴96g
+
+初始化任务列表
+【首次浇水奖励】获得10g💧
+
+【十次浇水奖励】获得10g💧
+
+finished 水果任务完成!
+
+初始化任务列表
+领取给2个好友浇水后的奖励水滴::{"code":"0","statisticsTimes":null,"sysTime":1612395250071,"addWater":25,"message":null}
+【给2好友浇水】奖励25g水滴
+
+小鸭子游戏:小鸭子为你带回了水滴
+小鸭子游戏:笨笨鸭一不小心迷路啦
+小鸭子游戏:小鸭子为你带回了水滴
+小鸭子游戏:小鸭子为你带回快速浇水卡
+小鸭子游戏:小鸭子和好朋友玩耍去啦
+小鸭子游戏:小鸭子和好朋友玩耍去啦
+小鸭子游戏达到上限
+开始检查剩余水滴能否再次浇水再次浇水
+
+剩余水滴151g
+
+背包已有道具:
+快速浇水卡:66张
+水滴翻倍卡:未解锁
+水滴换京豆卡:14张
+加签卡:0张
+
+目前剩余水滴：【151】g，可继续浇水
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":141,"statisticsTimes":null,"totalWaterTimes":13,"sysTime":1612395254511,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4770}
+
+浇水10g成功,剩余141
+
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":131,"statisticsTimes":null,"totalWaterTimes":14,"sysTime":1612395256656,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4780}
+
+浇水10g成功,剩余131
+
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":121,"statisticsTimes":null,"totalWaterTimes":15,"sysTime":1612395258805,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4790}
+
+浇水10g成功,剩余121
+
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":111,"statisticsTimes":null,"totalWaterTimes":16,"sysTime":1612395260948,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4800}
+
+浇水10g成功,剩余111
+
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":101,"statisticsTimes":null,"totalWaterTimes":17,"sysTime":1612395263110,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4810}
+
+浇水10g成功,剩余101
+
+开始预测水果成熟时间
+
+
+初始化任务列表
+
+==============📣系统通知📣==============
+东东农场
+【京东账号1】迷糊虫啊
+【水果名称】14包抽纸
+【已兑换水果】2次
+【今日剩余助力👬】3次
+【额外奖励】领取失败,原因：给您助力的人未达5个
+【今日共浇水】17次
+【剩余 水滴】101g💧
+【水果🍉进度】80.17%，已浇水481次,还需119次
+【预测】7天之后(2021-02-11日)可兑换水果🍉
+您未提供server酱的SCKEY，取消微信推送消息通知
+
+您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知
+
+您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知
+
+您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知
+
+您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知
+
+您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知
+
+您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知
+
+您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知
+
+您未提供酷推的SKEY，取消QQ推送消息通知
+
+
+开始【京东账号2】孤傲的小小瞒
+
+第2个京东账号将要助力的好友["6d402dcfae1043fba7b519e0d6579a6f","5efc7fdbb8e0436f8694c4c393359576","6dc9461f662d490991a31b798f624128"]
+
+【京东账号2（孤傲的小小瞒）的东东农场好友互助码】7fc45e59cb424526ae2522e993bd00d0
+
+
+【已成功兑换水果】2次
+
+开始助力好友
+格式化后的助力码::["6d402dcfae1043fba7b519e0d6579a6f","5efc7fdbb8e0436f8694c4c393359576","6dc9461f662d490991a31b798f624128"]
+
+开始助力京东账号2 - 孤傲的小小瞒的好友: 6d402dcfae1043fba7b519e0d6579a6f
+【助力好友结果】: 好友【jd_133682kvn】已满五人助力
+【今日助力次数还剩】3次
+
+开始助力京东账号2 - 孤傲的小小瞒的好友: 5efc7fdbb8e0436f8694c4c393359576
+【助力好友结果】: 好友【Evine007】已满五人助力
+【今日助力次数还剩】3次
+
+开始助力京东账号2 - 孤傲的小小瞒的好友: 6dc9461f662d490991a31b798f624128
+【助力好友结果】: 好友【d雯雯】已满五人助力
+【今日助力次数还剩】3次
+
+助力好友结束，即将开始领取额外水滴奖励
+
+
+2斤百香果种植中...
+
+
+初始化任务列表
+开始签到
+【签到成功】获得20g💧\n
+被水滴砸中： 否
+签到结束,开始广告浏览任务
+正在进行广告浏览任务: 每日签到抢888京豆
+每日签到抢888京豆浏览任务完成
+领取浏览每日签到抢888京豆广告奖励成功,获得8g
+正在进行广告浏览任务: 抢1元20只口罩
+抢1元20只口罩浏览任务完成
+领取浏览抢1元20只口罩广告奖励成功,获得8g
+正在进行广告浏览任务: 猕猴桃9.9元15颗
+猕猴桃9.9元15颗浏览任务完成
+领取浏览猕猴桃9.9元15颗广告奖励成功,获得8g
+正在进行广告浏览任务: 年夜饭5折抢
+"Timeout awaiting 'request' for 10000ms"
+东东农场 API请求失败，请检查网路重试
+年夜饭5折抢浏览任务完成
+领取浏览年夜饭5折抢广告奖励成功,获得8g
+正在进行广告浏览任务: 5双运动袜8.9元秒
+5双运动袜8.9元秒浏览任务完成
+领取浏览5双运动袜8.9元秒广告奖励成功,获得8g
+【广告浏览】完成5个,获得40g💧
+
+【定时领水】获得8g💧
+
+开始给好友浇水...
+
+初始化任务列表
+今日已给0个好友浇水
+需要浇水的好友列表shareCodes:["429a615a2f46406c943f5a546cd8648c","463b57014c844efcaed96eafe1aa629a"]
+为第1个好友浇水结果:{"code":"0","cardInfo":{"type":"doubleCard","beanAward":-1,"useTimesInDay":-1,"version":1,"rule":"可将水壶内水滴翻倍，最多增加100g","way":"添加好友、帮好友浇水","cardSubTitle":"壶中水滴翻倍，上限100g"},"remainTimeSeconds":59104,"firstWater":false,"statisticsTimes":null,"sysTime":1612395296729,"sendCard":"doubleCard","message":null}
+
+为好友浇水获得道具了
+获取道具卡:可将水壶内水滴翻倍，最多增加100g
+为第2个好友浇水结果:{"code":"0","cardInfo":{"type":"signCard","beanAward":-1,"useTimesInDay":3,"version":5,"rule":"每张可额外签到1天，每日最多使用3张","way":"添加好友、帮好友浇水","cardSubTitle":"可在签到页额外签到1天"},"remainTimeSeconds":59103,"firstWater":false,"statisticsTimes":null,"sysTime":1612395297890,"sendCard":"signCard","message":null}
+
+为好友浇水获得道具了
+获取道具卡:每张可额外签到1天，每日最多使用3张
+【好友浇水】已给2个好友浇水,消耗20g水
+
+【好友浇水奖励】水滴翻倍卡,加签卡
+
+查询好友列表数据：{"shareCodeInviteNotFarmAddOn":"-inviteFriendNotFarm","friendInfos":[{"2021-02-03":[{"time":1612348280104,"type":2,"name":"jdzyuan0swv","shareCode":"429a615a2f46406c943f5a546cd8648c"},{"time":1612348278929,"type":2,"name":"jd_138819zwg","shareCode":"463b57014c844efcaed96eafe1aa629a"},{"time":1612348277765,"type":2,"name":"xu秋琴","shareCode":"59fb20e2f8164e58adcd01ef87e8c320"},{"time":1612348275414,"type":2,"name":"jd_183638qgm","shareCode":"a8b573074cd34bc5ab52989095e45d1c"},{"time":1612348273086,"type":2,"shareCode":"809b963dd51e4a80a93380c2e854711f"},{"time":1612348271911,"type":2,"shareCode":"966450e902ca4a00989b5d6e870f29c9"},{"time":1612348270739,"type":2,"name":"L_oon","shareCode":"59cf29f433054a4ea81902b0ede2e91d"},{"time":1612348269556,"type":2,"name":"Uzi","shareCode":"a381b99be1484becbe0847f383672d28"},{"time":1612348268379,"type":2,"name":"jd_135166slpc","shareCode":"d77aa48afe9e4af9a33237ef80107c6f"},{"time":1612348267204,"type":2,"name":"南山巫妖王","shareCode":"19c85fdb82644b0ab4fbbbcd673d9790"},{"time":1612348266003,"type":2,"name":"jd_UOWGmjgAEBoi","shareCode":"3ca8987fdee547e38405129cd6c02007"},{"time":1612348264839,"type":2,"name":"jd_138361nng","shareCode":"7de33feb35344530a325bc620ad5c86e"},{"time":1612348263669,"type":2,"name":"丶神yin","shareCode":"ccb048b81cbe4ea1b516d3bd436969dc"},{"time":1612348262497,"type":2,"name":"京哈有牙","shareCode":"6d229a3c4700404195be8f18067dcd63"},{"time":1612348261290,"type":2,"name":"AsherXD","shareCode":"972d3961dbde44349e484a0dfc6f1278"},{"time":1612348260105,"type":2,"name":"魑魅lx魍魉","shareCode":"a54938e7d5b44822b3cc78fac213be32"},{"time":1612348257770,"type":2,"name":"jd_EkIIbbrXBBlo","shareCode":"8bdd359901c6412abd11db800d6eeb8f"},{"time":1612308989533,"type":2,"name":"老吴","shareCode":"0a8cb7e3af8c4fb2acb25c5177e8684d"},{"time":1612308988352,"type":2,"name":"Rover丶Dr","shareCode":"b5f15f9befab451393695ac8d6f3cd6b"},{"time":1612308987184,"type":2,"name":"刘芳","shareCode":"3af4a387849948b192668c2d6cc618e4"},{"time":1612308984842,"type":2,"name":"巫仙山的扫地僧","shareCode":"7bc91f5656cb4d938bb6901aac367d1e"},{"time":1612308982504,"type":2,"name":"梁金凤","shareCode":"bb414a220efd4add90f81e5ae8a56632"},{"time":1612308981329,"type":2,"name":"北方没有你i","shareCode":"9b506c5b30f244a6bc5611d2fc994b00"},{"time":1612308977806,"type":2,"name":"jdtzw889","shareCode":"b2ad3ad22de64600a9ebb576681cb104"},{"time":1612308976627,"type":2,"name":"jd139813mvq","shareCode":"5338263622324ac29c9c4de326c57dd4"},{"time":1612308975451,"type":2,"name":"卢^_^珊々","shareCode":"6fb07167e6ec4de8b10e07d1f1c8249b"},{"time":1612308974279,"type":2,"name":"cocktai1","shareCode":"c4b09f615696493f86cd73f419d28cba"},{"time":1612308973114,"type":2,"name":"颜颜","shareCode":"220367fc5fda40eb97a2a6332a128432"},{"time":1612308971922,"type":2,"name":"jd_734cf8f7882dd","shareCode":"fec6834cf6554fe1914b3e704d9b99f2"},{"time":1612308970755,"type":2,"name":"allenln","shareCode":"93f336217b744d5587c9bdf500e0cbb0"},{"time":1612308910886,"type":2,"name":"rXzWRMLaENXQ","shareCode":"3dc44a73cb6d4aa2b788905312930d70"},{"time":1612308909702,"type":2,"name":"icereal","shareCode":"da7b62a6f26846d7b282fa0a46e5ff96"},{"time":1612308908508,"type":2,"name":"爱过留痕007","shareCode":"b8457861284f4bc28bfc9eb89c16f841"}]},{"2021-02-02":[{"time":1612261992831,"type":2,"name":"xulichen01","shareCode":"cf8608b5493248ef83de56cbd524c798"},{"time":1612261990502,"type":2,"name":"超默契","shareCode":"923b0c80c75d4ccd8764c4a5a039ca3d"},{"time":1612261989309,"type":2,"name":"jayeew","shareCode":"24c7cc066a3f4ea1be82463068e4916a"},{"time":1612261986981,"type":2,"name":"jd_BJZiWnOtnlHL","shareCode":"6aa3fd682e424021977a6b11aa52808c"},{"time":1612261985802,"type":2,"name":"jd_nhWxkugDQFdp","shareCode":"3f27fd342edf4d3ab285cac7f1c86a40"},{"time":1612261984626,"type":2,"name":"Sober","shareCode":"f70349ee41724c83b34d18979bf029be"},{"time":1612261983431,"type":2,"name":"jd_155956xec","shareCode":"b3208035fd9c4216b35b06d3224e0300"},{"time":1612261982258,"type":2,"name":"lyh8120","shareCode":"c37ddb5c3a914a6caca797181b3038a5"},{"time":1612261981088,"type":2,"name":"jd_追梦-2","shareCode":"cf28126be066450db5b1f0844fa6f3d7"},{"time":1612261979922,"type":2,"name":"dayuan-JS","shareCode":"745bc4880e4043f88ff1480ad647acea"},{"time":1612261978749,"type":2,"name":"jd_135347gby","shareCode":"ad253b10c50b4fd28487c3c4f32441a3"},{"time":1612261977572,"type":2,"name":"StellaQ1994","shareCode":"a23d93dcb17c476e9ae581ce7b1a551e"},{"time":1612261976377,"type":2,"name":"zzd2358","shareCode":"b821169dfa12427f95dc7304ac2a638b"},{"time":1612261975198,"type":2,"name":"jd_6007b2c26e35f","shareCode":"8a80ac62977440aaa9f83b88bf711829"},{"time":1612261974028,"type":2,"name":"jd_yshumk","shareCode":"e72ccab2d71644fe8d421933cd12af44"},{"time":1612261972852,"type":2,"name":"Chplus","shareCode":"8fa74184c5dc4ee1856a45825b0d8ace"},{"time":1612261971671,"type":2,"name":"jd_176302ddl","shareCode":"420ab266a8224bdc97ce637aff3ffab2"},{"time":1612261970502,"type":2,"name":"感动妹","shareCode":"8fd0df716c2e46a89dafda600fc3384d"}]}],"code":"0","shareCodeCallAddOn":"-callFriend","inviteFriendCountToPropsSendCard":"fastCard","inviteFriendCountToProps":3,"inviteFriendGotAwardCount":0,"inviteFriendCount":0,"inviteFirstFriendAwardWater":50,"awardCallUserWater":60,"shareCodeInviteAddOn":"-inviteFriend","hadGotInviteFriendCountToProps":false,"statisticsTimes":null,"sysTime":1612395299071,"fullFriend":false,"inviteFriendAwardEach":10,"countOfFriend":17,"message":null,"friends":[{"id":"1612348280096016","nickName":"jdzyuan0swv","imageUrl":"https://m.360buyimg.com/babel/jfs/t1/149354/14/3906/29590/5f1ecb9dE15f749be/9a328e227831b99f.png","shareCode":"429a615a2f46406c943f5a546cd8648c","friendState":0},{"id":"1612348278921015","nickName":"jd_138819zwg","imageUrl":"https://m.360buyimg.com/babel/jfs/t1/149354/14/3906/29590/5f1ecb9dE15f749be/9a328e227831b99f.png","shareCode":"463b57014c844efcaed96eafe1aa629a","friendState":0},{"id":"1612348277756014","nickName":"xu秋琴","imageUrl":"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJFN8C746slclSKCERQZZ7dEnLWEnvkXTKJ8wZG0mUfjyVRzgVKtz5AWurInDP08mu4yib1icWLJY7w/132","shareCode":"59fb20e2f8164e58adcd01ef87e8c320","friendState":1},{"id":"1612348275405013","nickName":"jd_183638qgm","imageUrl":"https://m.360buyimg.com/babel/jfs/t1/149354/14/3906/29590/5f1ecb9dE15f749be/9a328e227831b99f.png","shareCode":"a8b573074cd34bc5ab52989095e45d1c","friendState":1},{"id":"1612348273077012","nickName":"j**5","imageUrl":"https://m.360buyimg.com/babel/jfs/t1/149354/14/3906/29590/5f1ecb9dE15f749be/9a328e227831b99f.png","shareCode":"809b963dd51e4a80a93380c2e854711f","friendState":1},{"id":"1612348271902011","nickName":"1**p","imageUrl":"https://m.360buyimg.com/babel/jfs/t1/149354/14/3906/29590/5f1ecb9dE15f749be/9a328e227831b99f.png","shareCode":"966450e902ca4a00989b5d6e870f29c9","friendState":0},{"id":"1612348270729010","nickName":"L_oon","imageUrl":"http://storage.360buyimg.com/i.imageUpload/6a645f65436661625775697642744d31363033363937373934323235_mid.jpg","shareCode":"59cf29f433054a4ea81902b0ede2e91d","friendState":1},{"id":"1612348269547009","nickName":"Uzi","imageUrl":"https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTKaSKMJMNFKEfTq6lzWCNJC96R02ZEZsbW0TsBgpmiaJcbvW5IzicX7Oz0GFO7glp4pIjwq4DwSEsjQ/132","shareCode":"a381b99be1484becbe0847f383672d28","friendState":1},{"id":"1612348268370008","nickName":"jd_135166slpc","imageUrl":"https://m.360buyimg.com/babel/jfs/t1/149354/14/3906/29590/5f1ecb9dE15f749be/9a328e227831b99f.png","shareCode":"d77aa48afe9e4af9a33237ef80107c6f","friendState":1},{"id":"1612348267195007","nickName":"南山巫妖王","imageUrl":"https://m.360buyimg.com/babel/jfs/t1/149354/14/3906/29590/5f1ecb9dE15f749be/9a328e227831b99f.png","shareCode":"19c85fdb82644b0ab4fbbbcd673d9790","friendState":1},{"id":"1612348265993006","nickName":"jd_UOWGmjgAEBoi","imageUrl":"https://m.360buyimg.com/babel/jfs/t1/149354/14/3906/29590/5f1ecb9dE15f749be/9a328e227831b99f.png","shareCode":"3ca8987fdee547e38405129cd6c02007","friendState":1},{"id":"1612348264835005","nickName":"jd_138361nng","imageUrl":"https://m.360buyimg.com/babel/jfs/t1/149354/14/3906/29590/5f1ecb9dE15f749be/9a328e227831b99f.png","shareCode":"7de33feb35344530a325bc620ad5c86e","friendState":1},{"id":"1612348263659004","nickName":"丶神yin","imageUrl":"http://storage.360buyimg.com/i.imageUpload/3536343832313530315f6d31353438343636363231393133_mid.jpg","shareCode":"ccb048b81cbe4ea1b516d3bd436969dc","friendState":1},{"id":"1612348262489003","nickName":"京哈有牙","imageUrl":"https://m.360buyimg.com/babel/jfs/t1/149354/14/3906/29590/5f1ecb9dE15f749be/9a328e227831b99f.png","shareCode":"6d229a3c4700404195be8f18067dcd63","friendState":1},{"id":"1612348261281002","nickName":"AsherXD","imageUrl":"https://m.360buyimg.com/babel/jfs/t1/149354/14/3906/29590/5f1ecb9dE15f749be/9a328e227831b99f.png","shareCode":"972d3961dbde44349e484a0dfc6f1278","friendState":0},{"id":"1612348260097183","nickName":"魑魅lx魍魉","imageUrl":"https://m.360buyimg.com/babel/jfs/t1/149354/14/3906/29590/5f1ecb9dE15f749be/9a328e227831b99f.png","shareCode":"a54938e7d5b44822b3cc78fac213be32","friendState":0},{"id":"1612348257762000","nickName":"jd_EkIIbbrXBBlo","imageUrl":"https://m.360buyimg.com/babel/jfs/t1/149354/14/3906/29590/5f1ecb9dE15f749be/9a328e227831b99f.png","shareCode":"8bdd359901c6412abd11db800d6eeb8f","friendState":1}],"newUserAward":false,"deleteFriendCount":829,"awardInviteNewUserSendWater":100,"inviteFriendMax":4,"newFriendMsg":false,"loadFriend":false}
+
+
+今日已邀请好友0个 / 每日邀请上限4个
+开始删除17个好友,可拿每天的邀请奖励
+
+开始删除好友 [429a615a2f46406c943f5a546cd8648c]
+删除好友 [429a615a2f46406c943f5a546cd8648c] 成功
+
+
+开始删除好友 [463b57014c844efcaed96eafe1aa629a]
+删除好友 [463b57014c844efcaed96eafe1aa629a] 成功
+
+
+开始删除好友 [59fb20e2f8164e58adcd01ef87e8c320]
+删除好友 [59fb20e2f8164e58adcd01ef87e8c320] 成功
+
+
+开始删除好友 [a8b573074cd34bc5ab52989095e45d1c]
+删除好友 [a8b573074cd34bc5ab52989095e45d1c] 成功
+
+
+开始删除好友 [809b963dd51e4a80a93380c2e854711f]
+删除好友 [809b963dd51e4a80a93380c2e854711f] 成功
+
+
+开始删除好友 [966450e902ca4a00989b5d6e870f29c9]
+删除好友 [966450e902ca4a00989b5d6e870f29c9] 成功
+
+
+开始删除好友 [59cf29f433054a4ea81902b0ede2e91d]
+删除好友 [59cf29f433054a4ea81902b0ede2e91d] 成功
+
+
+开始删除好友 [a381b99be1484becbe0847f383672d28]
+删除好友 [a381b99be1484becbe0847f383672d28] 成功
+
+
+开始删除好友 [d77aa48afe9e4af9a33237ef80107c6f]
+删除好友 [d77aa48afe9e4af9a33237ef80107c6f] 成功
+
+
+开始删除好友 [19c85fdb82644b0ab4fbbbcd673d9790]
+删除好友 [19c85fdb82644b0ab4fbbbcd673d9790] 成功
+
+
+开始删除好友 [3ca8987fdee547e38405129cd6c02007]
+删除好友 [3ca8987fdee547e38405129cd6c02007] 成功
+
+
+开始删除好友 [7de33feb35344530a325bc620ad5c86e]
+删除好友 [7de33feb35344530a325bc620ad5c86e] 成功
+
+
+开始删除好友 [ccb048b81cbe4ea1b516d3bd436969dc]
+删除好友 [ccb048b81cbe4ea1b516d3bd436969dc] 成功
+
+
+开始删除好友 [6d229a3c4700404195be8f18067dcd63]
+删除好友 [6d229a3c4700404195be8f18067dcd63] 成功
+
+
+开始删除好友 [972d3961dbde44349e484a0dfc6f1278]
+删除好友 [972d3961dbde44349e484a0dfc6f1278] 成功
+
+
+开始删除好友 [a54938e7d5b44822b3cc78fac213be32]
+删除好友 [a54938e7d5b44822b3cc78fac213be32] 成功
+
+
+开始删除好友 [8bdd359901c6412abd11db800d6eeb8f]
+删除好友 [8bdd359901c6412abd11db800d6eeb8f] 成功
+
+今日未邀请过好友
+开始打卡领水活动（签到，关注，领券）
+开始今日签到
+打卡结果{"amount":10,"code":"0","todayGotWaterGoalTask":{"canPop":false},"statisticsTimes":null,"signDay":2,"sysTime":1612395324392,"message":null}
+【第2天签到】获得10g💧
+
+关注ID96
+themeStep1--结果{"followState":"0","code":"0","todayGotWaterGoalTask":{"canPop":false},"statisticsTimes":null,"sysTime":1612395325530,"message":null}
+themeStep2--结果{"amount":2,"code":"0","todayGotWaterGoalTask":{"canPop":false},"statisticsTimes":null,"sysTime":1612395326674,"message":null}
+关注美妆馆，获得水滴2g
+关注ID249
+themeStep1--结果{"followState":"0","code":"0","todayGotWaterGoalTask":{"canPop":false},"statisticsTimes":null,"sysTime":1612395327825,"message":null}
+themeStep2--结果{"amount":2,"code":"0","todayGotWaterGoalTask":{"canPop":false},"statisticsTimes":null,"sysTime":1612395328992,"message":null}
+关注美食馆，获得水滴2g
+关注ID519
+themeStep1--结果{"followState":"0","code":"0","todayGotWaterGoalTask":{"canPop":false},"statisticsTimes":null,"sysTime":1612395330137,"message":null}
+themeStep2--结果{"amount":2,"code":"0","todayGotWaterGoalTask":{"canPop":false},"statisticsTimes":null,"sysTime":1612395331288,"message":null}
+关注东东农场，获得水滴2g
+开始打卡领水活动（签到，关注，领券）结束
+
+水滴雨任务，每天两次，最多可得10g水滴
+两次水滴雨任务是否全部完成：否
+开始水滴雨任务,这是第1次，剩余1次
+水滴雨waterRain
+水滴雨任务执行成功，获得水滴：10g
+【第1次水滴雨】获得10g水滴
+
+助力好友未达到5个
+领取额外奖励水滴结束
+
+是否到了领取免费赠送的抽奖机会----false
+免费赠送的抽奖机会未到时间
+开始浏览天天抽奖的第1个逛会场任务
+浏览爆品会场
+第1个逛会场任务完成，开始领取水滴奖励
+
+天天抽奖浏览任务领取水滴
+第1个逛会场任务领取水滴奖励完成
+
+开始浏览天天抽奖的第2个逛会场任务
+浏览爆品会场
+第2个逛会场任务完成，开始领取水滴奖励
+
+天天抽奖浏览任务领取水滴
+第2个逛会场任务领取水滴奖励完成
+
+开始天天抽奖--好友助力--每人每天只有三次助力机会.
+---天天抽奖次数remainLotteryTimes----3次
+开始抽奖
+等待了2秒
+第1次抽奖结果{"code":"0","statisticsTimes":null,"sysTime":1612395348257,"addWater":10,"message":null,"type":"water1","remainLotteryTimes":2}
+lotteryRes.typewater1
+等待了2秒
+第2次抽奖结果{"code":"0","statisticsTimes":null,"sysTime":1612395351414,"addWater":10,"message":null,"type":"water1","remainLotteryTimes":1}
+lotteryRes.typewater1
+等待了2秒
+第3次抽奖结果{"beanCount":2,"code":"0","statisticsTimes":null,"sysTime":1612395354574,"message":null,"type":"beano2","remainLotteryTimes":0}
+lotteryRes.typebeano2
+【天天抽奖】水滴10g，水滴10g，京豆2个
+
+
+准备浇水十次
+第1次浇水
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":187,"statisticsTimes":null,"totalWaterTimes":3,"sysTime":1612395357863,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4530}
+剩余水滴187g
+第2次浇水
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":177,"statisticsTimes":null,"totalWaterTimes":4,"sysTime":1612395360007,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4540}
+剩余水滴177g
+第3次浇水
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":167,"statisticsTimes":null,"totalWaterTimes":5,"sysTime":1612395362146,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4550}
+剩余水滴167g
+第4次浇水
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":157,"statisticsTimes":null,"totalWaterTimes":6,"sysTime":1612395364286,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4560}
+剩余水滴157g
+第5次浇水
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":147,"statisticsTimes":null,"totalWaterTimes":7,"sysTime":1612395366423,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4570}
+剩余水滴147g
+第6次浇水
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":137,"statisticsTimes":null,"totalWaterTimes":8,"sysTime":1612395368573,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4580}
+剩余水滴137g
+第7次浇水
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":127,"statisticsTimes":null,"totalWaterTimes":9,"sysTime":1612395370718,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4590}
+剩余水滴127g
+第8次浇水
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":117,"statisticsTimes":null,"totalWaterTimes":10,"sysTime":1612395372873,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4600}
+剩余水滴117g
+第9次浇水
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":107,"statisticsTimes":null,"totalWaterTimes":11,"sysTime":1612395375025,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4610}
+剩余水滴107g
+第10次浇水
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":97,"statisticsTimes":null,"totalWaterTimes":12,"sysTime":1612395377166,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4620}
+剩余水滴97g
+
+初始化任务列表
+【首次浇水奖励】获得10g💧
+
+【十次浇水奖励】获得10g💧
+
+finished 水果任务完成!
+
+初始化任务列表
+领取给2个好友浇水后的奖励水滴::{"code":"0","statisticsTimes":null,"sysTime":1612395382924,"addWater":25,"message":null}
+【给2好友浇水】奖励25g水滴
+
+小鸭子游戏:贪吃鸭沉浸在美食之中
+小鸭子游戏:小鸭子为你带回快速浇水卡
+小鸭子游戏:笨笨鸭一不小心迷路啦
+小鸭子游戏:小鸭子和好朋友玩耍去啦
+小鸭子游戏:小鸭子和好朋友玩耍去啦
+小鸭子花下躲雨中
+开始检查剩余水滴能否再次浇水再次浇水
+
+剩余水滴142g
+
+背包已有道具:
+快速浇水卡:39张
+水滴翻倍卡:1张
+水滴换京豆卡:18张
+加签卡:1张
+
+使用翻倍水滴卡结果:{"code":"0","statisticsTimes":null,"sysTime":1612395386220,"addWater":100,"message":null}
+使用加签卡结果:{"amount":10,"code":"0","signCardUseTimesLimit":false,"statisticsTimes":null,"signDay":3,"sysTime":1612395387531,"message":null}
+目前剩余水滴：【252】g，可继续浇水
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":242,"statisticsTimes":null,"totalWaterTimes":13,"sysTime":1612395389819,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4630}
+
+浇水10g成功,剩余242
+
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":232,"statisticsTimes":null,"totalWaterTimes":14,"sysTime":1612395391962,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4640}
+
+浇水10g成功,剩余232
+
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":222,"statisticsTimes":null,"totalWaterTimes":15,"sysTime":1612395394103,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4650}
+
+浇水10g成功,剩余222
+
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":212,"statisticsTimes":null,"totalWaterTimes":16,"sysTime":1612395396248,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4660}
+
+浇水10g成功,剩余212
+
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":202,"statisticsTimes":null,"totalWaterTimes":17,"sysTime":1612395398393,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4670}
+
+浇水10g成功,剩余202
+
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":192,"statisticsTimes":null,"totalWaterTimes":18,"sysTime":1612395400533,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4680}
+
+浇水10g成功,剩余192
+
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":182,"statisticsTimes":null,"totalWaterTimes":19,"sysTime":1612395402668,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4690}
+
+浇水10g成功,剩余182
+
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":172,"statisticsTimes":null,"totalWaterTimes":20,"sysTime":1612395404815,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4700}
+
+浇水10g成功,剩余172
+
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":162,"statisticsTimes":null,"totalWaterTimes":21,"sysTime":1612395406958,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4710}
+
+浇水10g成功,剩余162
+
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":152,"statisticsTimes":null,"totalWaterTimes":22,"sysTime":1612395409108,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4720}
+
+浇水10g成功,剩余152
+
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":142,"statisticsTimes":null,"totalWaterTimes":23,"sysTime":1612395411254,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4730}
+
+浇水10g成功,剩余142
+
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":132,"statisticsTimes":null,"totalWaterTimes":24,"sysTime":1612395413394,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4740}
+
+浇水10g成功,剩余132
+
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":122,"statisticsTimes":null,"totalWaterTimes":25,"sysTime":1612395415542,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4750}
+
+浇水10g成功,剩余122
+
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":112,"statisticsTimes":null,"totalWaterTimes":26,"sysTime":1612395417692,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4760}
+
+浇水10g成功,剩余112
+
+等待了1秒
+本次浇水结果:   {"code":"0","totalEnergy":102,"statisticsTimes":null,"totalWaterTimes":27,"sysTime":1612395419831,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":4770}
+
+浇水10g成功,剩余102
+
+开始预测水果成熟时间
+
+
+初始化任务列表
+
+==============📣系统通知📣==============
+东东农场
+【京东账号2】孤傲的小小瞒
+【水果名称】2斤百香果
+【已兑换水果】2次
+【今日剩余助力👬】3次
+【额外奖励】领取失败,原因：给您助力的人未达5个
+【今日共浇水】27次
+【剩余 水滴】102g💧
+【水果🍉进度】79.50%，已浇水477次,还需123次
+【预测】5天之后(2021-02-09日)可兑换水果🍉
+您未提供server酱的SCKEY，取消微信推送消息通知
+
+您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知
+
+您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知
+
+您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知
+
+您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知
+
+您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知
+
+您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知
+
+您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知
+
+您未提供酷推的SKEY，取消QQ推送消息通知
+
+
+🔔东东农场, 结束! 🕛 287.819 秒
+

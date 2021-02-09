@@ -1,0 +1,83 @@
+
+🔔工业品爱消除, 开始!
+您的cookie选择的是用&隔开
+
+
+====================共有2个京东账号Cookie=========
+
+==================脚本执行- 北京时间(UTC+8)：2/4/2021, 11:23:52 AM=====================
+
+开始获取工业品爱消除配置文件
+
+共2个京东账号
+
+您提供了0个账号的工业品爱消除助力码
+
+您要兑换的商品名称为1888京豆
+
+******开始【京东账号1】迷糊虫啊*********
+
+由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+
+第1个京东账号将要助力的好友["840266","2585219","2586018","1556311","2583822","2585256","756497","1234613"]
+
+❗️工业品爱消除, 错误!
+TypeError: Cannot read property 'platform' of undefined
+    at /home/xinchun/www/jd-new/jd/scripts/jd_gyec.js:209:46
+    at got.post.then.message (/home/xinchun/www/jd-new/jd/scripts/jd_gyec.js:1002:5772)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+❗️工业品爱消除, 错误!
+TypeError: data.tasks is not iterable
+    at /home/xinchun/www/jd-new/jd/scripts/jd_gyec.js:283:37
+    at got.post.then.message (/home/xinchun/www/jd-new/jd/scripts/jd_gyec.js:1002:5772)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+暂无每日挑战任务
+去助力好友840266
+去助力好友2585219
+去助力好友2586018
+去助力好友1556311
+去助力好友2583822
+去助力好友2585256
+去助力好友756497
+去助力好友1234613
+当前关卡：NaN
+TypeError: Cannot read property 'length' of undefined
+    at play (/home/xinchun/www/jd-new/jd/scripts/jd_gyec.js:636:17)
+    at jdGy (/home/xinchun/www/jd-new/jd/scripts/jd_gyec.js:122:11)
+    at async /home/xinchun/www/jd-new/jd/scripts/jd_gyec.js:98:7
+
+******开始【京东账号2】孤傲的小小瞒*********
+
+由于您第2个京东账号未提供shareCode,将采纳本脚本自带的助力码
+
+第2个京东账号将要助力的好友["840266","2585219","2586018","1556311","2583822","2585256","756497","1234613"]
+
+❗️工业品爱消除, 错误!
+TypeError: Cannot read property 'platform' of undefined
+    at /home/xinchun/www/jd-new/jd/scripts/jd_gyec.js:209:46
+    at got.post.then.message (/home/xinchun/www/jd-new/jd/scripts/jd_gyec.js:1002:5772)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+❗️工业品爱消除, 错误!
+TypeError: data.tasks is not iterable
+    at /home/xinchun/www/jd-new/jd/scripts/jd_gyec.js:283:37
+    at got.post.then.message (/home/xinchun/www/jd-new/jd/scripts/jd_gyec.js:1002:5772)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+暂无每日挑战任务
+去助力好友840266
+去助力好友2585219
+去助力好友2586018
+去助力好友1556311
+去助力好友2583822
+去助力好友2585256
+去助力好友756497
+去助力好友1234613
+当前关卡：NaN
+TypeError: Cannot read property 'length' of undefined
+    at play (/home/xinchun/www/jd-new/jd/scripts/jd_gyec.js:636:17)
+    at jdGy (/home/xinchun/www/jd-new/jd/scripts/jd_gyec.js:122:11)
+    at async /home/xinchun/www/jd-new/jd/scripts/jd_gyec.js:98:7
+
+🔔工业品爱消除, 结束! 🕛 12.766 秒
+

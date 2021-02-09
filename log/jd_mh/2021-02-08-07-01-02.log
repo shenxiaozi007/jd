@@ -1,0 +1,24 @@
+
+🔔盲盒抽京豆, 开始!
+您的cookie选择的是用&隔开
+
+
+====================共有2个京东账号Cookie=========
+
+==================脚本执行- 北京时间(UTC+8)：2/8/2021, 7:01:02 AM=====================
+
+
+******开始【京东账号1】迷糊虫啊*********
+
+
+❗️盲盒抽京豆, 错误!
+TypeError: Cannot read property 'bless' of undefined
+    at /home/xinchun/www/jd-new/jd/scripts/jd_mh.js:135:43
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/home/xinchun/www/jd-new/jd/scripts/jd_mh.js:302:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+❌ 盲盒抽京豆, 失败! 原因: TypeError: Cannot read property 'bless' of undefined!
+
+
+🔔盲盒抽京豆, 结束! 🕛 0.627 秒
+

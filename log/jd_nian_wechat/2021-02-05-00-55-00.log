@@ -1,0 +1,32 @@
+
+🔔京东炸年兽小程序🧨, 开始!
+您的cookie选择的是用&隔开
+
+
+====================共有2个京东账号Cookie=========
+
+==================脚本执行- 北京时间(UTC+8)：2/5/2021, 12:55:00 AM=====================
+
+
+******开始【京东账号1】迷糊虫啊*********
+
+当前爆竹342162🧨，升级需要520000🧨
+
+❗️京东炸年兽小程序🧨, 错误!
+TypeError: $.taskVos is not iterable
+    at doTask (/home/xinchun/www/jd-new/jd/scripts/jd_nian_wechat.js:122:22)
+    at jdNian (/home/xinchun/www/jd-new/jd/scripts/jd_nian_wechat.js:86:11)
+    at async /home/xinchun/www/jd-new/jd/scripts/jd_nian_wechat.js:69:7
+
+******开始【京东账号2】孤傲的小小瞒*********
+
+当前爆竹435511🧨，升级需要480000🧨
+
+❗️京东炸年兽小程序🧨, 错误!
+TypeError: $.taskVos is not iterable
+    at doTask (/home/xinchun/www/jd-new/jd/scripts/jd_nian_wechat.js:122:22)
+    at jdNian (/home/xinchun/www/jd-new/jd/scripts/jd_nian_wechat.js:86:11)
+    at async /home/xinchun/www/jd-new/jd/scripts/jd_nian_wechat.js:69:7
+
+🔔京东炸年兽小程序🧨, 结束! 🕛 7.146 秒
+
