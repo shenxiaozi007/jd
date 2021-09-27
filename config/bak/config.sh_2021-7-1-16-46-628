@@ -26,12 +26,12 @@
 ## 必须按数字顺序1、2、3、4...依次编号下去，例子只有6个，超出6个你继续往下编号即可
 ## 不允许有汉字，如果ID有汉字，请在PC浏览器上获取Cookie，会自动将汉字转换为URL编码
 
-Cookie1="pt_key=AAJhLJqJADB6dX-_azFTjBBuUIBQaVdV10lma5Ti8-P7iaeuYZyQ_gyTyMYzP563yQ7nvBateMI;pt_pin=jd_VAKitQvdtiCb;"
-Cookie2="pt_key=AAJhLKOZADA9f1cb8MAPX0y5goYk1uJ4TExsQaB1tqbdvQRvx2orZeY2k9TT0VZPqgdTxPrzsck;pt_pin=%E6%B0%B5%E5%8F%88%E7%86%A0;" #hy
+Cookie1="pt_key=AAJhGya0ADCiyr90PFf1K52JF7Wsr6gXv0ttInWdHltnijAnLH1ic28Y86u5jHXcAeiYJxy1cyQ;pt_pin=jd_VAKitQvdtiCb;"
+Cookie2="pt_key=pt_key=AAJgtvFpADCX3ho31O8_gilUHrE_5UnsjB_L69x1toXs-XuhQm81rvnfFFaQiiccG3Xj4AREooU;pt_pin=%E6%B0%B5%E5%8F%88%E7%86%A0;" #hy
 Cookie3="pt_key=AAJhLJoCADB3oVlZCUnxzK9dQMYqzjnM1ku8Zv6BXpGjseaZ45_omZR2xnOaw5irQwDTculU9Fs;pt_pin=173315279;"
-Cookie4="pt_key=AAJhLKJTADCuaqAXzPIJIEAd6L6zK7GUmbJK0oshT7O3ORhf_Zb8F7kN6xyJnxgREsbXTOCFnN0;pt_pin=%E6%B5%85%E8%8D%89%E5%B9%BB%E9%9B%AA;"
+Cookie4="pt_key=AAJhGyelADCnZNxvHc2qyK4roE_99HJvLvTD3O2nhZHx_sHcCTVVC3PlviYes1An8GJj5wFs7M8;pt_pin=%E6%B5%85%E8%8D%89%E5%B9%BB%E9%9B%AA;"
 Cookie5="pt_key=AAJgdoxgADDEeOK53U7s5cMO5hx4rfhPlhyfgX00U6QvMP4-leVGi7c0hdkwzCOOa7Xz9qobI44;pt_pin=%E7%90%B3%E7%B4%AB%E5%A7%90%E5%A7%90;" #lz
-Cookie6="pt_key=AAJhMZmhADAcvCslSHIL6o32RPOlp8X5Y5kNsz7zg3ymuznn8O9TauRrHSsVuFxH_Aqq-OXrW2E;pt_pin=jd_YcslZQLIeUkW;" #小小瞒小号
+Cookie6=""
 
 
 ################################## 定义是否自动删除失效的脚本与定时任务（选填） ##################################
@@ -98,7 +98,7 @@ export PUSH_PLUS_TOKEN=""
 export PUSH_PLUS_USER=""
 
 ## 8. 企业微信机器人消息推送 webhook 后面的 key，文档：https://work.weixin.qq.com/api/doc/90000/90136/91770
-export QYWX_KEY="d11d0716-1603-4f40-ad1f-35728aebc7f8"
+export QYWX_KEY=""
 
 ## 9. 企业微信应用消息推送的值，文档：https://work.weixin.qq.com/api/doc/90000/90135/90236 
 ## 依次填上corpid的值,corpsecret的值,touser的值,agentid,media_id的值，注意用,号隔开，例如："wwcff56746d9adwers,B-791548lnzXBE6_BWfxdf3kSTMJr9vFEPKAbh6WERQ,mingcheng,1000001,2COXgjH2UIfERF2zxrtUOKgQ9XklUqMdGSWLBoW_lSDAdafat"
